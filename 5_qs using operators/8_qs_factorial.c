@@ -1,0 +1,16 @@
+//WAP to print the factorial of a given number 'n'.
+
+#include<stdio.h>
+int main(){
+    int n;
+    printf("Enter any number: ");
+    scanf("%d",&n);
+    int product = 1;
+    for(int i=1; i<=n; i++){
+        product = product * i;
+    }
+     printf("%d\n",product);
+    return 0;
+}
+
+//Note :  0! = 1 , 1! = 1
