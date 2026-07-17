@@ -136,16 +136,6 @@ File Handling        █████░░░░░░░░░░░░░░�
 
 ---
 
-## ⭐ Highlights
-
-- 🔷 **28 Pattern Programs** — one of the most comprehensive pattern collections
-- 🧮 **17 Array Programs** — from basics to advanced searching
-- 📐 **10 Matrix Programs** — transpose, rotation, row/col operations
-- ♻️ **6 Recursion Variants** — parameterized, functional, and call-based
-- 🏗️ **11 Structure Programs** — nested structs, unions, typedef, and pointers
-
----
-
 ## 🤝 Contributing
 
 Found a bug or want to add more programs? Contributions are welcome!
